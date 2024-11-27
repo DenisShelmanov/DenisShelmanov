@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Denis 👋</h1>
 
-<h4 align="center">Full-stack JS developer from Ukraine 🇺🇦 with more than 2 years of experience in software development and with master's degree in computer science.</h4>
+<h4 align="center">Full-stack JS developer with more than 4 years of experience in software development and with master's degree in computer science.</h4>
 
 ---
 
