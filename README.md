@@ -27,5 +27,4 @@ I worked on different projects including mobile and web development, database de
 
 ## 📫 Contact
 Let me know if you any ideas for future collaboration or questions regarding my work expierence!
-- [Email](mailto:denis.shelmanov@sysgears.com)
 - [Upwork](https://www.upwork.com/freelancers/~013cd3ac6430b67e71)
