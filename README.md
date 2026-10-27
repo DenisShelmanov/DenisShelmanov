@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Denis 👋</h1>
 
-<h4 align="center">A Full-Stack developer with 5+ years of experience in creating scalable web and mobile applications with Master's degree in Computer Science.</h4>
+<h4 align="center">A Full-Stack developer with 7+ years of experience in creating scalable web and mobile applications with Master's degree in Computer Science.</h4>
 
 ---
 
